@@ -78,7 +78,7 @@ BVH 文件里的内容分为 Hierarchy 和 Motion 两个部分：
 
 - [What is a Parser?](https://www.techtarget.com/searchapparchitecture/definition/parser)
 
-- [使用Java编写BVH文件解析器]([BVH文件 Java解析器_yao伟斌的博客-CSDN博客_bvh 文件解析器](https://blog.csdn.net/u012336923/article/details/50979894))
+- [使用Java编写BVH文件解析器](https://blog.csdn.net/u012336923/article/details/50979894)
 
 - [Explanation of `getline()` and `stringstream`](https://ee.usc.edu/~redekopp/cs103/slides/Unit14_Streams.pdf)
 
